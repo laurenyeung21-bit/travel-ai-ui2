@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "title": "Buenos Aires to Uruguay Coast Loop (15 days, Culture + Beaches)",
+    "duration_days": 15,
+    "countries": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "focus": [
+      "Culture",
+      "Beaches"
+    ],
+    "overview": {
+      "main_stops": [
+        "Buenos Aires",
+        "Colonia del Sacramento",
+        "Montevideo",
+        "Punta del Este",
+        "Cabo Polonio",
+        "Montevideo",
+        "Buenos Aires"
+      ],
+      "why_this_route": "Short ferry crossings make Uruguay extremely easy to reach, with minimal travel fatigue and flexible return options. Distances are small, transport is frequent, and August\u2013September offers cooler, comfortable weather for cities and coastal areas.",
+      "key_highlights": {
+        "Buenos Aires": "neighbourhood culture, food, tango, museums",
+        "Colonia del Sacramento": "UNESCO-listed historic quarter",
+        "Montevideo": "relaxed capital culture, markets, coastal rambla",
+        "Punta del Este": "classic beach resort with budget-friendly hostels off-season",
+        "Cabo Polonio": "remote beach village with rustic accommodation and strong backpacker vibe"
+      }
+    },
+    "day_by_day": [
+      "Days 1\u20134: Buenos Aires \u2014 Stay days exploring the city",
+      "Day 5: Buenos Aires \u2192 Colonia del Sacramento \u2014 Travel day (ferry)",
+      "Days 6\u20137: Colonia del Sacramento \u2014 Stay days",
+      "Day 8: Colonia \u2192 Montevideo \u2014 Travel day (bus)",
+      "Days 9\u201310: Montevideo \u2014 Stay days",
+      "Day 11: Montevideo \u2192 Punta del Este \u2014 Travel day (bus)",
+      "Days 12\u201313: Punta del Este \u2014 Stay days (beaches)",
+      "Day 14: Punta del Este \u2192 Cabo Polonio \u2014 Travel day (bus + park transfer)",
+      "Day 15: Cabo Polonio \u2192 Montevideo \u2014 Travel day",
+      "Day 16: Montevideo \u2192 Buenos Aires \u2014 Travel day (ferry)",
+      "Day 17: Buenos Aires \u2014 Final buffer / departure day"
+    ],
+    "modifications": {
+      "shorter_version": "Remove Cabo Polonio and add one extra night in Punta del Este before returning to Montevideo.",
+      "longer_version": "Add two extra days in Buenos Aires or Montevideo for deeper cultural exploration.",
+      "alternative_branch": "Replace Punta del Este with Piri\u00e1polis for a quieter, more low-key beach town with fewer crowds and cheaper accommodation."
+    },
+    "travel_breakdown": [
+      {
+        "from": "Buenos Aires",
+        "to": "Colonia",
+        "mode": "Ferry",
+        "time": "1\u20131.5 hrs",
+        "border": "Argentina \u2192 Uruguay passport control at ferry terminal"
+      },
+      {
+        "from": "Colonia",
+        "to": "Montevideo",
+        "mode": "Bus",
+        "time": "2.5 hrs",
+        "border": "None"
+      },
+      {
+        "from": "Montevideo",
+        "to": "Punta del Este",
+        "mode": "Bus",
+        "time": "2\u20132.5 hrs",
+        "border": "None"
+      },
+      {
+        "from": "Punta del Este",
+        "to": "Cabo Polonio",
+        "mode": "Bus + 4x4 park transfer",
+        "time": "4\u20135 hrs total",
+        "border": "None"
+      },
+      {
+        "from": "Cabo Polonio",
+        "to": "Montevideo",
+        "mode": "4x4 transfer + bus",
+        "time": "5\u20136 hrs",
+        "border": "None"
+      },
+      {
+        "from": "Montevideo",
+        "to": "Buenos Aires",
+        "mode": "Ferry",
+        "time": "2\u20133 hrs",
+        "border": "Uruguay \u2192 Argentina passport control"
+      }
+    ],
+    "cost_breakdown": [
+      {
+        "section": "Buenos Aires (5 nights)",
+        "accommodation": 120,
+        "transport": 25,
+        "food_activities": 110,
+        "subtotal": 255
+      },
+      {
+        "section": "Colonia (2 nights)",
+        "accommodation": 50,
+        "transport": 40,
+        "food_activities": 45,
+        "subtotal": 135
+      },
+      {
+        "section": "Montevideo (4 nights total)",
+        "accommodation": 100,
+        "transport": 60,
+        "food_activities": 90,
+        "subtotal": 250
+      },
+      {
+        "section": "Punta del Este (2 nights)",
+        "accommodation": 60,
+        "transport": 25,
+        "food_activities": 60,
+        "subtotal": 145
+      },
+      {
+        "section": "Cabo Polonio (1 night)",
+        "accommodation": 25,
+        "transport": 35,
+        "food_activities": 30,
+        "subtotal": 90
+      },
+      {
+        "section": "Total",
+        "subtotal": 875
+      }
+    ],
+    "resources": [
+      {
+        "purpose": "Ferries Argentina\u2013Uruguay",
+        "website": "https://www.buquebus.com",
+        "notes": "Main ferry operator between Buenos Aires and Uruguay"
+      },
+      {
+        "purpose": "Long-distance buses",
+        "website": "https://www.plataforma10.com",
+        "notes": "Useful for Argentina and Uruguay bus routes"
+      },
+      {
+        "purpose": "Accommodation",
+        "website": "https://www.hostelworld.com",
+        "notes": "Best for hostel availability and reviews"
+      },
+      {
+        "purpose": "Activities & tours",
+        "website": "https://www.getyourguide.com",
+        "notes": "Walking tours and cultural activities"
+      },
+      {
+        "purpose": "Maps & navigation",
+        "website": "https://www.google.com/maps",
+        "notes": "Offline maps recommended for travel days"
+      }
+    ],
+    "notes": "Copy this object, increment 'id', and replace content to add more itineraries."
+  }
+]
